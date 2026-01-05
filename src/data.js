@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: '../src/assets/images/photo-mtfuji.jpg',
+            src: '../../Travel Journal/src/assets/images/photo-mtfuji.jpg',
             alt: "Mount Fuji"
         },
         title: "Mount Fuji",
