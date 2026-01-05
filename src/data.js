@@ -2,7 +2,7 @@ export default [
     {
         id: 1,
         img: {
-            src: '../../Travel Journal/src/assets/images/photo-mtfuji.jpg',
+            src: "https://scrimba.com/links/travel-journal-japan-image-url",
             alt: "Mount Fuji"
         },
         title: "Mount Fuji",
@@ -36,3 +36,5 @@ export default [
         text: "The Geiranger Fjord is a fjord in the Sunnmøre region of Møre og Romsdal county, Norway. It is located entirely in the Stranda Municipality."
     },
 ]
+
+// 
